@@ -16,7 +16,7 @@ Facilita o cliente saber quanto que deve ou quanto tem, em qualquer lugar sem pr
 
 Digite sua senha: 108548
 Digite seu Codigo do Cliente: 9256
-
+----------------------------------
 Nome: Bill
 CPF: 900.532.498-67
 Valor total: 800
